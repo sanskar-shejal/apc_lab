@@ -1,0 +1,3 @@
+B101,Python Programming,John,available
+B102,Data Structures,Alice,available
+B103,Machine Learning,Bob,available
